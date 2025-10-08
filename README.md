@@ -89,14 +89,6 @@ header {
 
 
 ## OUTPUT:
-![alt text](../image/imageapp/static/assets/img01.png)
-![alt text](../image/imageapp/static/assets/img02.png)
-![alt text](../image/imageapp/static/assets/img03.png)
-![alt text](../image/imageapp/static/assets/img04.png)
-![alt text](../image/imageapp/static/assets/img05.png)
-![alt text](../image/imageapp/static/assets/img06.png)
-![alt text](../image/imageapp/static/assets/img07.png)
-![alt text](../image/imageapp/static/assets/img08.png)
-
+![alt text](<Screenshot 2025-10-08 131825.png>)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
