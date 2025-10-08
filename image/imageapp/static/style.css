@@ -1,0 +1,26 @@
+body {
+  height: 100vh;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.screen {
+  min-height: 100vh;
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: peru;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
